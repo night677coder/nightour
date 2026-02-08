@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "pages:build": "next build && npx @cloudflare/next-on-pages",
-    "pages:deploy": "wrangler pages deploy deploy-temp --project-name nightour"
+    "pages:deploy": "wrangler pages deploy deploy-temp --project-name nightour",
+    "export": "next build",
+    "deploy": "npm run build && git add out/ && git commit -m \"Deploy to GitHub Pages\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
     "@types/node": "^20",
