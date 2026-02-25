@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nightour-neon.vercel.app/</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/movies</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/tv-shows</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/anime</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/manga</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/song</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/music</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/top-rated</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/continue-watching</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/trending</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/watchlist</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nightour-neon.vercel.app/search</loc>
+  <lastmod>2026-02-23T17:20:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
